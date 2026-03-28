@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css">
+      <style>
+        .suwret1{
+            border-radius: 50%;
+        }
+         </style>
+
+    </head>
+    <body>
+        <p><i class="fa-regular fa-user"></i> Profil suwreti</p>
+        <img class="suwret1" src="pishiq.png" width="200">
+    </body>
+</html>
