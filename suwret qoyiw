@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Miyweler</title>
+    </head>
+    <body>
+        <h2>Alma</h2>
+        <img src="30015508.webp" width="100">
+        <h2>Sari banan</h2>
+        <img src="images.jpg" width="150">
+        <h2>Qulipnay</h2>
+        <img src="qulipnay.webp" width="200">
+        <h2>Tavar:Qulipnay</h2>
+        <h2>Bahasi:30 000 sum</h2>
+        <hr>
+        <ul>
+            <li>
+                <img src="apelsin.jpg" width="200">
+            </li>
+                <li>
+                    <img src="marojniy.jpg" width="200">
+                </li>
+        </ul>
+        <hr>
+        <img src="Nautbook.png" width="450">
+        <h2>Noutbuk:MacBook Pro</h2>
+        <ul>
+            <li>Protsessor:M2</li>
+            <li>Operativ yad:16GB</li>
+            <li>Bahasi: 1500$</li>
+        </ul>
+    </body>
+</html>
